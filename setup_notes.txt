@@ -1,0 +1,13 @@
+Windows 10 Setup:
+Overtone using lein - simple
+JackD - easy default installer
+SuperCollider - easy default installer
+
+
+VB ASIO Bridge https://jamulus.io/kb/2022/01/26/Routing-JACK-Windows.html
+https://vb-audio.com/Cable/
+
+Start Jack, start VB ASIO Bridge
+Route app sound to ASIO Bridge (system settings)
+Route ASIO Bridge to scsynth (Jack) and system output
+
